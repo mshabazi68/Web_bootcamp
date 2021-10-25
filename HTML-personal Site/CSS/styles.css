@@ -1,0 +1,26 @@
+/* adding style to the html using css style tage */
+body {
+  background-color: #EAF6F6;
+}
+h1{
+  color: #66BFBF;
+}
+h2{
+  color: #66BFBF;
+}
+h3{
+  color: #66BFBF;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 15px;
+  border-color: #A6A39E;
+  height: 2px;
+  width: 5%;
+}
+
+img {
+  height: 250px;
+  width: 200px;
+}
